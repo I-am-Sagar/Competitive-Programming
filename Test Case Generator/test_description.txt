@@ -1,0 +1,20 @@
+// Syntax in my mind. Will think over - how to simplify it.
+
+data {
+    n (int, 5, 100);
+    m (int, 5, 100);
+    a (int, 1, 10000, 'r');
+};
+
+main {
+    println(30);  // test cases
+    loop(30) {
+        println(n, m);
+        loop (n) {
+            loop (m) {
+                print (a);
+            };
+            println();
+        };
+    };
+};
