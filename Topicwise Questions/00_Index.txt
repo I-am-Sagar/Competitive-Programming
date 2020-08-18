@@ -1,0 +1,44 @@
+1. Warm Up -> 35 
+2. Prefix Sum -> 4
+3. Difference Arrays -> 6
+4. Two Pointer Method -> 18
+5. Arrays -> 8
+6. RMQ and Sparse Tables -> 8
+7. Stacks -> 8
+8. Queues -> 6
+9. Trees -> 20
+10. Segment Trees -> 20
+11. Fenwick Trees -> 8
+12. Suffix Trees -> 10
+13. Strings -> 24
+14. BFS -> 8
+15. DFS -> 12
+16. Strong Connectivity, Bridges and APs -> 10
+17. DSU -> 10
+18. Spanning Trees -> 10
+19. LCA -> 9
+20. SSSP -> 10
+21. APSP -> 8
+22. Topo Sort -> 4
+23. Eulerian Tour -> 5
+24. Network Flow -> 10
+25. HLD -> 8
+26. Exponentiation -> 7
+27. Number Theory SPOJ -> 12
+28. Number Theory Codeforces -> 24
+29. Searching, Sorting and Adhoc -> 12
+30. Divide and Conquer -> 6
+31. Greedy -> 10
+32. Recursion and BackTracking -> 3
+33. Bits -> 14
+34. DP -> 14
+35. Games -> 10
+36. Algebra -> 1
+37. Combinatorics -> 9
+38. Geometry -> 18
+39. Brute Force -> 12
+40. Random -> 7
+
+-----------------------
+TOTAL -> 438 Problems
+-----------------------
