@@ -13,7 +13,7 @@ Line(No.)| variable1_name: value   variable2_name:value ...
 
 It can print both - basic data types and most of the STL containers. 
 
-What it can't print is - standard arrays like `int arr[50]`, because passing the name to `debug()` won't be sufficient for it to print the array without knowing it's size and data-type. So, instead use vectors. Also, it can't print vectors of custom data-type. Eg. `struct Point{int x, y;}`. We can't print `vector<Point>`. Among STL containers, it can't print stacks, queues, deques, etc. because they dont have begin() and end() properties. Despite not being able to print these many containers, `debug()` is still a very powerful tool.
+What it can't print is - standard arrays like `int arr[50]`, because passing the name to `debug()` won't be sufficient for it to print the array without knowing it's size and data-type. So, instead use vectors. Also, it can't print vectors of custom data-type. Eg. `struct Point{int x, y;}`. We can't print `vector<Point>`. Among STL containers, it can't print stacks, queues, deques, etc. because they dont have `begin()` and `end()` properties. Despite not being able to print these many containers, `debug()` is still a very powerful tool.
 
 **2) Using Timing Utility:**
 
